@@ -158,3 +158,13 @@ button {
     color: #f9faf8;
     border-radius: 6px;
 }
+.footer-container {
+    background-color: #1f2937;
+    padding: 50px;
+    color: #f9faf8;
+}
+#copy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
