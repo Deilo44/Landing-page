@@ -54,7 +54,7 @@
     font-weight: extra-bold;
     color: #f9faf8;
 }
-button {
+#ton {
     background-color: #3882f6;
     color: #f9faf8;
     border: none;
@@ -133,4 +133,27 @@ h2 {
     margin-bottom: 15%;
     font-weight: 600;
     font-style: normal;
+}
+.call-container {
+    background-color: white;
+}
+.call {
+    padding: 10px;
+    display: flex;
+    background-color: #3882f6;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    margin: 10%;
+}
+#para2 {
+    color: #f9faf8;
+}
+button {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 6px;
 }
