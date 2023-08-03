@@ -25,6 +25,7 @@
     justify-content: center;
 }
 .hero1 {
+    margin: 0%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -35,10 +36,12 @@
     justify-self: flex-start;
 }
 #subhero {
+    margin-top: 0%;
     color: #e5e7eb;
     font-size: 18px;
 }
 #one {
+    margin-bottom: 0%;
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
