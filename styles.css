@@ -5,7 +5,7 @@
     color: #f9faf8;
 }
 .header-logo {
-    margin-top: 10%;
+    margin-top: 3%;
     margin-left: 10%;
     margin-right: 10%;
     display: flex;
@@ -14,12 +14,13 @@
     align-content: end;
 }
 .header-links {
+    margin-right: 10%;
     color: #e5e7eb;
     font-size: 18px;
     display: flex;
     flex-direction: row;
     justify-content: end;
-    gap: 50px;
+    gap: 20px;
 }
 
 .hero {
@@ -57,4 +58,8 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     
+}
+#zero {
+    margin-top: 10%;
+    margin-right: 10%;
 }
