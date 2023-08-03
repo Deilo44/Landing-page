@@ -115,3 +115,22 @@ h2 {
 #im4 {
     border-radius: 20px;
 }
+.inspire-container {
+    padding-top: 10%;
+    background-color: #e5e7eb;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+.para {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#thor {
+    text-align: right;
+    margin-bottom: 15%;
+    font-weight: 600;
+    font-style: normal;
+}
