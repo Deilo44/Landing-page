@@ -8,7 +8,15 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-content: end;
 }
+.header-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 100px;
+}
+
 .hero {
     display: flex;
     flex-direction: row;
@@ -18,4 +26,8 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+}
+#logo {
+    font-size: 24px;
+    justify-self: flex-start;
 }
