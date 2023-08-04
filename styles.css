@@ -146,6 +146,7 @@ h2 {
     justify-content: center;
     gap: 40px;
     margin: 10%;
+    border-radius: 10px;
 }
 #para2 {
     color: #f9faf8;
